@@ -1,0 +1,72 @@
+body {
+   background-color: paleturquoise;
+   color: blueviolet;
+}
+
+header {
+   background-color: #D6FCFF;
+   text-align: center;
+}
+
+h2 {
+   color: #B239D0;
+
+}
+
+.div1 {
+   background-color: #D6FCFF;
+   text-align: center;
+   border: 2px solid black;
+   margin: 20px;
+   padding: 20px;
+}
+
+
+
+
+#header-id {}
+
+.aboutme {
+   background-color: #D6FCFF;
+   text-align: center;
+   border: 2px solid black;
+   margin: 20px;
+   padding: 20px;
+
+}
+
+.Centered {
+   text-align: center;
+}
+
+.intro {
+   border-radius: 25px;
+   background-color: #D6FCFF;
+   text-align: center;
+   border: 2px solid black;
+   margin: 20px;
+   padding: 20px;
+}
+
+.p1 {
+   font-family: 'Lucida Sans', sans-serif;
+}
+
+.p2 {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p3 {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+footer {
+   background-color: #D6FCFF;
+   text-align: center;
+   border: 2px solid black;
+   margin: 20px;
+   padding: 20px;
+}
